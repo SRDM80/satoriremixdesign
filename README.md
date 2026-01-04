@@ -1,2 +1,8 @@
-# satoriremixdesign
-宮尾徹
+<!-- htmlの書き方と同じです。-->
+<p>胎児よ胎児よなぜ踊る</p>
+<p>こちらは宮尾徹が作成したウェブサイトのようなものです。</p>
+<style>
+    p {
+        color:red;
+    }
+</style>
